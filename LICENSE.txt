@@ -1,4 +1,101 @@
-Copyright © 2026 Antélia
-All rights reserved.
-This software is proprietary and confidential.
-No reproduction, modification, redistribution or reverse engineering permitted without written authorization.
+CONTRAT DE LICENCE UTILISATEUR FINAL (EULA)
+Killbit
+
+Dernière mise à jour : [à compléter]
+
+Le présent Contrat de Licence Utilisateur Final ("EULA") régit l’utilisation du logiciel Killbit (ci-après le "Logiciel").
+
+Le Logiciel est édité et exploité par :
+
+ANTÉLIA EURL
+2 Rue Yvonne Madeleine, 91800 Brunoy
+SIREN : 534037965
+(ci-après "l’Éditeur")
+
+ANTÉLIA est le propriétaire exclusif du Logiciel Killbit.
+
+En téléchargeant, installant ou utilisant le Logiciel, vous acceptez sans réserve les termes du présent contrat.
+
+1. Nature de la licence
+
+Le Logiciel est un logiciel propriétaire.
+
+Le Logiciel est concédé sous licence et non vendu.
+
+L’Éditeur accorde à l’utilisateur une licence :
+
+- personnelle
+
+- non exclusive
+
+- non cessible
+
+- non transférable
+
+- révocable
+
+permettant l’utilisation du Logiciel conformément à sa destination.
+
+2. Propriété intellectuelle
+
+Le Logiciel, y compris son code binaire, ses algorithmes, son architecture, ses mécanismes de sécurité, sa documentation et tout élément associé, est protégé par le droit d’auteur et les lois relatives à la propriété intellectuelle.
+
+Le Logiciel est la propriété exclusive d’ANTÉLIA.
+
+Tous les droits sont réservés.
+
+Aucun droit de propriété intellectuelle n’est transféré à l’utilisateur.
+
+3. Restrictions
+
+Il est strictement interdit de :
+
+- Copier, reproduire ou distribuer le Logiciel sans autorisation écrite préalable
+
+- Modifier, adapter ou créer des œuvres dérivées
+
+- Décompiler, désassembler ou pratiquer toute forme de rétro-ingénierie
+
+- Contourner les mécanismes de sécurité ou d’authentification
+
+- Utiliser le Logiciel en dehors du cadre contractuellement autorisé
+
+Toute violation entraîne la résiliation immédiate de la licence.
+
+4. Conditions spécifiques d’utilisation
+
+Le Logiciel peut fonctionner en interaction avec une infrastructure serveur contrôlée par l’Éditeur.
+
+Son utilisation peut nécessiter :
+
+- une autorisation préalable
+
+- un contrôle d’accès réseau
+
+- une validation par identifiant machine ou organisation
+
+L’Éditeur se réserve le droit de suspendre ou restreindre l’accès en cas d’usage non conforme.
+
+5. Absence de garantie
+
+Le Logiciel est fourni "en l’état".
+
+ANTÉLIA ne garantit ni son adéquation à un usage particulier, ni l’absence d’erreurs, ni la disponibilité continue des services associés.
+
+6. Limitation de responsabilité
+
+ANTÉLIA ne pourra être tenue responsable de dommages directs ou indirects résultant de l’utilisation du Logiciel.
+
+La responsabilité de l’Éditeur est limitée au montant éventuellement payé pour l’utilisation du Logiciel.
+
+7. Résiliation
+
+La licence est automatiquement résiliée en cas de non-respect du présent contrat.
+
+L’utilisateur devra immédiatement cesser toute utilisation et supprimer toute copie du Logiciel.
+
+8. Droit applicable
+
+Le présent contrat est soumis au droit français.
+
+Tout litige relève de la compétence exclusive des juridictions françaises.
